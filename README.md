@@ -12,4 +12,8 @@ This image was created specifically for usage with continuous integration system
 
 ### Additional Node Modules
 
-* [Roots](https://github.com/jescalan/roots) - Firebase Command Line Tools. Required to deploy to Firebase.
+* [Roots](https://github.com/jescalan/roots) - Roots CLI.
+
+## Colophon
+
+Inspired by [docker-firebase](https://github.com/devillexio/docker-firebase).
